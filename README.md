@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
-<h3 align="center">A passionate frontend developer with skills in Html ,Css ,Javascript ,Tailwind and React.js.</h3>
+<h3 align="center">A passionate frontend developer with skills in HTML ,CSS ,Javascript ,Tailwind Css and React.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmaurya575&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmaurya575" /> </p>
 
